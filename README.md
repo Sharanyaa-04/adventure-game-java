@@ -52,3 +52,12 @@ rm -rf bin && mkdir bin && javac -d bin $(find src -name "*.java") && cp -r src/
 - Improve UI design and transitions
 - Add more levels and enemies
 - Implement scoring or achievements
+
+## Screenshots
+
+<img width="796" height="595" alt="Screenshot 2026-03-17 at 9 12 42 PM" src="https://github.com/user-attachments/assets/0ba1db30-ed0f-47ba-bf86-59e8955c419d" />
+
+<img width="796" height="595" alt="Screenshot 2026-03-17 at 9 13 18 PM" src="https://github.com/user-attachments/assets/d1eee55c-5396-4351-9cd9-5f12e886cbf9" />
+
+<img width="796" height="595" alt="Screenshot 2026-03-17 at 9 13 26 PM" src="https://github.com/user-attachments/assets/65406b0e-99a0-4da5-b5df-8ec66d9252ad" />
+
