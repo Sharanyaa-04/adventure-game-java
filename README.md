@@ -19,12 +19,13 @@ The game includes multiple scenes, an inventory system, and progression-based un
 - Enter the cave to reach the final scene
 
 ## Project Structure
-'''
+
+```
 src/
-─ Main/ # Core game logic (UI, GameManager, Player, SceneChanger)
-─ Event/ # Event handling (scene interactions)
-─ res/ # Images and assets
-'''
+├── Main/      # Core game logic (UI, GameManager, Player, SceneChanger)
+├── Event/     # Event handling (scene interactions)
+└── res/       # Images and assets
+```
 
 ## How to Run
 
